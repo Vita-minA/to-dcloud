@@ -1,0 +1,1 @@
+<view class="board-wrapper square"><chessboard class="vue-ref" vue-id="8dd740cc-1" props="{{wxProps}}" data-ref="board" data-event-opts="{{[['^fuckTry',[['fuckTry']]]]}}" data-com-type="wx" bind:fuckTry="__e" bind:__l="__l"></chessboard></view>
